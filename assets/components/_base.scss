@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background: rgb(155, 155, 155);
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1400px;
+}
+img{
+    width: 100px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li
+button{
+    font-family: "Roboto";
+    margin: 0;
+}

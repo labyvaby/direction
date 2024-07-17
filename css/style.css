@@ -33,6 +33,8 @@ li button {
 .main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
   gap: 10px;
 }
 .main__button {
